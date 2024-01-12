@@ -14,10 +14,17 @@ Secara umum, kita bisa melihat bahwa:
 - Penumpang paling banyak adalah perempuan
 - dari table Unique, kita dapat melihat distinct/ kategori/ nilai unik dari masing-masing variable. Dari unik data yang ada, dapat dilihat bahwa masih ada ketidaksesuaian jumlah unik antara corridorID dan CorridorName yang seharusnya memiliki jumlah unique yang sama. oleh karena perlu ada tindak lebih lanjut.
 
-# APA YANG DIANALISIS?
+# TAHAPAN ANALISIS
 Pada analisis data ini ada beberapa tahapan, diantaranya:
 - Data Preparation
 - Data Cleaning
 - Data Analysis
 - Conclusion & Key Findings
 - Recommendations
+
+# APA YANG DIANALISIS?
+- Persentase Gender Penumpang
+- Koridor tersibuk
+- Koridor yang paling banyak digunakan penumpang wanita
+- Jam sibuk operasional Transjakarta
+- Halte yang paling padat saat jam sibuk
